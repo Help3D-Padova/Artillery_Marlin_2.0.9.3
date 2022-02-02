@@ -28,7 +28,7 @@
 /**
  * Marlin release version identifier
  */
-#define SHORT_BUILD_VERSION "2.0.9.3_Genius_BL_5V_HELP3D"
+#define SHORT_BUILD_VERSION "2.0.9.3_X1_BL_5V_HELP3D"
 
 /**
  * Verbose version identifier which should contain a reference to the location
